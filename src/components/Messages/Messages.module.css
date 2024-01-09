@@ -1,0 +1,13 @@
+.messages__button {
+   width: 30%;
+   margin: 50px;
+   padding: 12px;
+
+   border-radius: 25px;
+   background-color: #1d9bf0;
+   border: none;
+
+   color: #fff;
+   font-size: 17px;
+   font-weight: 600;
+}

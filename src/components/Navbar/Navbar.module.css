@@ -1,0 +1,49 @@
+.navbar {
+   width: 20%;
+   border-right: 1px solid rgb(240, 240, 240);
+   height: 100lvh;
+
+   position: sticky;
+   top: 0;
+}
+
+.navbar__Logo {
+   width: 60px;
+   margin-left: 10px;
+}
+
+.navbar__button__post {
+   width: 75%;
+   margin: 20px auto;
+
+   border-radius: 25px;
+   background-color: #1d9bf0;
+   border: none;
+
+   text-align: center;
+}
+.navbar__button__post:hover {
+   background-color: #1c8ad4;
+   transition: 0.2s;
+}
+.navbar__link__post {
+   width: 100%;
+   padding: 15px 0;
+   font-size: 17px;
+   color: #ffffff;
+   font-weight: 700;
+   letter-spacing: 0.5px;
+   text-decoration: none;
+   display: inline-block;
+}
+.user__information {
+   display: flex;
+   align-items: center;
+
+   margin-top: 90%;
+}
+.user__information__icon {
+   width: 37px;
+   height: 37px;
+   margin-right: 15px;
+}

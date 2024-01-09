@@ -1,0 +1,12 @@
+.content{
+    width: 70%;
+    margin: 50px;
+}
+.content__title{
+    font-size: 32px;
+}
+.content__subtitle{
+    margin-top: 20px;
+    font-size: 15px;
+    color: #536471;
+}

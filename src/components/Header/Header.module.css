@@ -1,0 +1,13 @@
+.header {
+   width: 95.2%;
+   color: #0f1419;
+   font-size: 20px;
+
+   position: sticky;
+   top: 0;
+   padding: 10px 15px;
+   
+   background-color: #fff;
+   opacity: 0.91;
+   border-bottom: 1px solid rgb(240, 240, 240);
+}

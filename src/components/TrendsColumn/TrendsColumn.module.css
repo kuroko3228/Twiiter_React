@@ -1,0 +1,43 @@
+.trends {
+   width: 30%;
+   height: 120%;
+
+   border-left: 1px solid rgb(240, 240, 240);
+}
+.trends__items {
+   margin: 5px 0 10px 30px;
+
+   background-color: rgb(239, 243, 243);
+   border-radius: 16px;
+}
+
+.trends__title {
+   font-size: 20px;
+   padding: 12px 16px;
+}
+
+.trends__search {
+   padding: 10px;
+   margin: 5px 0 18px 30px;
+
+   display: flex;
+   align-items: center;
+
+   background-color: rgba(239, 243, 243, 0.9);
+   border-radius: 25px;
+}
+.trends__search__icon svg {
+   width: 18px;
+   height: 18px;
+   margin: 5px 10px 0;
+}
+.trends__search__input {
+   background-color: rgba(239, 243, 243, 0.9);
+   border: none;
+
+   padding: 0 10px;
+   outline: none;
+
+   color: (15, 20, 25, 1);
+   font-size: 16px;
+}

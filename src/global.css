@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0F1419;
+
+}
+button{
+    cursor: pointer;
+}
